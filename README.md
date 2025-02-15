@@ -21,3 +21,6 @@ client/
 │   │   └── ui/          # Reusable UI components
 │   ├── hooks/           # Custom React hooks
 │   └── lib/            # Utility functions
+server/
+├── routes/             # API routes
+└── storage/           # Database interactions
